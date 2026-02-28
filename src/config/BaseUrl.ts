@@ -1,1 +1,1 @@
-export const BaseUrl = "https://serversyapi.swcapp.in/api/v1",
+export const BaseUrl = "https://serversyapi.swcapp.in/api/v1";
